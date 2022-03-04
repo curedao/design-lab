@@ -7,7 +7,10 @@ Design assets and ideas, presentations, and videos.
 2. Fill out this [form](https://notionforms.io/forms/join-curedao)
 3. See [issues](https://github.com/cure-dao/design/issues) for open design contests. 
 4. Add a comment indicating how soon you can complete it. 
-5. Upload the completed assets in the comment (or create a pull request if you're comfortable with git). 
+5. Install [Figma](https://www.figma.com/downloads/)
+6. Do task
+7. Save Figma file locally
+8. Upload the completed .fig file and/or assets in the comment (or create a pull request if you're comfortable with git). 
 
 # Getting Help
 If you have any issues, ask for help in the [Discussions Page](https://github.com/cure-dao/design/discussions) or in the comments of an issue.
