@@ -4,13 +4,14 @@ Design assets and ideas, presentations, and videos.
 # 🎁 How to Earn Tokens by Completing Design Quests
 
 1. Create a Github account
-2. Fill out this [form](https://notionforms.io/forms/join-curedao)
-3. See [issues](https://github.com/cure-dao/design/issues) for open design contests. 
-4. Add a comment indicating how soon you can complete it. 
-5. Install [Figma](https://www.figma.com/downloads/)
-6. Do task
-7. Save Figma file locally
-8. Upload the completed .fig file and/or assets in the comment (or create a pull request if you're comfortable with git). 
+2. Install Metamask and add the Harmony chain as [described here](https://app.gitbook.com/o/5VrxfXthJ6nareW3125z/s/ALpB7mDyBf0ce3vSyslF/~/changes/NBBfbuLDGxvuVZxSZeXd/how-to/get-tokens)
+3. Fill out this [form](https://notionforms.io/forms/join-curedao) so we can add you to the Github organization and compensate you with tokens
+4. See [issues](https://github.com/cure-dao/design/issues) for open design contests. 
+5. Add a comment indicating how soon you can complete it. 
+6. Install [Figma](https://www.figma.com/downloads/)
+7. Do your selected task
+8. Save Figma file locally
+9. Upload the completed .fig file and/or assets in the comment (or create a pull request if you're comfortable with git). 
 
 # Getting Help
 If you have any issues, ask for help in the [Discussions Page](https://github.com/cure-dao/design/discussions) or in the comments of an issue.
