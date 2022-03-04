@@ -12,3 +12,5 @@ See [issues](https://github.com/cure-dao/design/issues) for open design contests
 ### 4. Download it like so:
 ![image](https://user-images.githubusercontent.com/2808553/156827145-935dc080-2b1a-4233-b696-4fec8874e300.png)
 
+
+# If you have a hard time following the instructions, you can simply attach the files or ask for help in the [Design channel](https://discord.gg/hsEuJbWuQn) in Discord.
