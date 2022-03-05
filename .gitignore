@@ -13,3 +13,7 @@ _book
 # eBook build output
 *.epub
 *.mobi
+<<<<<<< HEAD
+=======
+*.pdf
+>>>>>>> 4d21d33a83e72645f463f29557d5915a65e9de7f
