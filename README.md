@@ -35,3 +35,4 @@ It's useful to have all the assets downloaded locally.
 7. Open GitHub desktop
 8. Add a descriptive commit message in small text box next to your avatar (large description box is optional)
 9. Click Push
+10. Click the "Branch" menu and "Create Pull Request"
