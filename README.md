@@ -23,4 +23,16 @@ It's useful to have all the assets downloaded locally.
 1. Fork this Repository by clicking the "Fork" button above.
 2. Download it like so:
 ![image](https://user-images.githubusercontent.com/2808553/156827145-935dc080-2b1a-4233-b696-4fec8874e300.png)
+3. Click "Open in Explorer"
 
+# How to Commit Figma Changes
+1. Open GitHub app 
+2. Click "Show in Explorer" to find location of repo
+3. Click the F on the upper left
+4. Click File
+5. Save Local Copy to the folder where you downloaded this repository
+6. Save in appropriate folder (if want to keep different versions, append your name to the end of the file)
+7. Open GitHub desktop
+8. Add a descriptive commit message in small text box next to your avatar (large description box is optional)
+9. Click Push
+10. Click the "Branch" menu and "Create Pull Request"
