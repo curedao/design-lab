@@ -1,6 +1,6 @@
 # 🔎 Predictor Search Engine Plugin
 
-Aggregated user data is used to determine the factors that most influence any given aspect of health, powering the QM Search Engine.
+Aggregated user data is used to determine the factors that most influence any given aspect of health, powering the Predictor Search Engine.
 
 Anyone wanting to optimize any quantifiable aspect of their life is able to search and see a list of the products that are most effective at helping the average user achieve a particular health and wellness goal. For instance, if one wishes to improve one’s sleep efficiency, go to our site and search for “sleep efficiency”, where one is able to select from the list of products that most affect sleep efficiency.
 
