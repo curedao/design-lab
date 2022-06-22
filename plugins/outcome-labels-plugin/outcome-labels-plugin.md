@@ -1,4 +1,4 @@
-# 🏷 Outcome Labels Plugin
+# Outcome Labels Plugin
 
 ![outcome-labels-plugin.png](outcome-labels.PNG)
 

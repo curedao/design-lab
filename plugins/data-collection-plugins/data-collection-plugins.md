@@ -1,4 +1,4 @@
-# 📲 Data Collection Plugins
+# Data Collection Plugins
 
 ![](data-collection-plugins.PNG)
 

@@ -1,0 +1,18 @@
+# Table of contents
+
+* [README](README.md)
+* [Plugins](plugins/README.md)
+  * [Api Integration Plugins](plugins/api-integration-plugins.md)
+  * [Data Analysis Plugins](plugins/data-analysis-plugins.md)
+  * [data-collection-plugins](plugins/data-collection-plugins/README.md)
+    * [Data Collection Plugins](plugins/data-collection-plugins/data-collection-plugins.md)
+  * [observational-studies-plugin](plugins/observational-studies-plugin/README.md)
+    * [Observational Studies Plugin](plugins/observational-studies-plugin/observational-studies-plugin.md)
+  * [open-cures-trial-management-plugin](plugins/open-cures-trial-management-plugin/README.md)
+    * [OpenCures Trial Management Plugin](plugins/open-cures-trial-management-plugin/open-cures-trial-management-plugin.md)
+  * [optomitron-real-time-decision-support-plugin](plugins/optomitron-real-time-decision-support-plugin/README.md)
+    * [Optomitron Real-Time Decision Support Plugin](plugins/optomitron-real-time-decision-support-plugin/optomitron-real-time-notifications-plugin.md)
+  * [outcome-labels-plugin](plugins/outcome-labels-plugin/README.md)
+    * [Outcome Labels Plugin](plugins/outcome-labels-plugin/outcome-labels-plugin.md)
+  * [predictor-search-engine-plugin](plugins/predictor-search-engine-plugin/README.md)
+    * [Predictor Search Engine Plugin](plugins/predictor-search-engine-plugin/predictor-search-engine-plugin.md)
