@@ -6,7 +6,7 @@ cover: optomitron-cover.PNG
 coverY: 203.93538913362704
 ---
 
-# 🤖 Optomitron Real-Time Decision Support Plugin
+# Optomitron Real-Time Decision Support Plugin
 
 {% embed url="https://youtu.be/hd50A74o8YI" %}
 Optomitron in Action

@@ -1,4 +1,4 @@
-# 📑 Observational Studies Plugin
+# Observational Studies Plugin
 
 ## Study Index
 
